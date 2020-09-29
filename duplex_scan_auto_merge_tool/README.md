@@ -2,6 +2,10 @@
 
 When you need to do a duplex scan of papers, but with single-side only printers, feel free to use this auto merge tool.
 
+## Prebuilt binary download
+
+[Ver-2.1 Release Page](https://github.com/nerekihs/MyToolkits/releases/tag/v2.1)
+
 ## Usage
 
 1. Scan the entire document with the first page side up, then rename it to `1.pdf`.
