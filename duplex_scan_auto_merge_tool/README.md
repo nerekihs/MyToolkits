@@ -4,7 +4,7 @@ When you need to do a duplex scan of papers, but with single-side only printers,
 
 ## Prebuilt binary download
 
-[Ver-2.1 Release Page](https://github.com/nerekihs/MyToolkits/releases/tag/v2.1)
+[Ver-2.2 Release Page](https://github.com/nerekihs/MyToolkits/releases/tag/v2.2)
 
 ## Usage
 
