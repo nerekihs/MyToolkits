@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
 """
-Duplex Scanning Auto Merging Tool
+Auto-merge tool for duplex scanning
 Author: SKR
-Version: 2.1
+Version: 2.2
 """
 
 import PyPDF2
@@ -15,7 +15,7 @@ import win32con
 pdf1_path = ".\\1.pdf"
 pdf2_path = ".\\2.pdf"
 
-current_time = time.strftime("%Y%m%d%H%M%S", time.localtime(time.time()))
+current_time = time.strftime("%Y%m%d_%H%M%S", time.localtime(time.time()))
 output_name = f"pdf_merged_at_{current_time}"
 output_path = f".\\{output_name}.pdf"
 
